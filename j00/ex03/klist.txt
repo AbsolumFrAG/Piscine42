@@ -1,0 +1,6 @@
+Credentials cache: API:A1BC3F9A-5520-464F-B178-3C04C4400F1D
+        Principal: ltigroud@42.FR
+
+		  Issued                Expires               Principal
+		  Jul  3 18:07:36 2019  Jul 10 18:07:36 2019  krbtgt/42.FR@42.FR
+		  Jul  3 18:44:52 2019  Jul 10 18:07:36 2019  host/vgs-fn1.42.fr@42.FR
